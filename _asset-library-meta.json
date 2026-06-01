@@ -1,9 +1,5 @@
 {
   "api_versions": {
-    "V3.2.0": {
-      "url": "_v3.2.0/asset-index.json",
-      "hash": "SHA256:c26830abde9acbc794f4a0f52ee763ead6c319cce9583deec9473ccc93b05c2a"
-    }
     "v3.3.0": {
       "url": "_v3.3.0/asset-index.json",
       "hash": "SHA256:5e5b90ab54eb0eec1a0dad79d3bd6d27eae5c5253fb948fe132ded662832fac4"
