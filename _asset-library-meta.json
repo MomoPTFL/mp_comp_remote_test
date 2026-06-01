@@ -1,14 +1,14 @@
 {
   "api_versions": {
-    "v1": {
-      "url": "_v1/asset-index.json",
+    "V3.2.0": {
+      "url": "_v3.2.0/asset-index.json",
       "hash": "SHA256:c26830abde9acbc794f4a0f52ee763ead6c319cce9583deec9473ccc93b05c2a"
     }
   },
-  "name": "Your Asset Library",
+  "name": "MP_Comp",
   "contact": {
-    "name": "Your Name",
-    "url": "https://example.org/",
-    "email": "example@example.org"
+    "name": "Momo PTFL",
+    "url": "https://moportfolio.de/mp_comp-documentation/",
+    "email": "contact@moportfolio.de"
   }
 }
