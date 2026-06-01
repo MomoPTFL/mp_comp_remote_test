@@ -1,7 +1,7 @@
 {
   "api_versions": {
-    "v3.3.0": {
-      "url": "_v3.3.0/asset-index.json",
+    "v320": {
+      "url": "_v320/asset-index.json",
       "hash": "SHA256:5e5b90ab54eb0eec1a0dad79d3bd6d27eae5c5253fb948fe132ded662832fac4"
     }
   },
