@@ -9,7 +9,6 @@ VERSION 1
 cbdd9201-1c3e-4a22-9646-cc2c0b636478:MP_Comp V3.2.0:MP_Comp V3.2.0
 7aad3faf-3c06-4eb0-a655-c4dd01f63e15:MP_Comp V3.2.0/3D:MP_Comp V3.2.0-3D
 af365924-2c8b-471b-a7ef-8ad2f4fd5529:MP_Comp V3.2.0/Adjust:MP_Comp V3.2.0-Adjust
-9ae59309-06e0-4e16-aa34-f3a336a13392:MP_Comp V3.2.0/Adjust/Catalog:MP_Comp V3.2.0-Adjust-Catalog
 8de4e2a1-168b-4fc4-b74f-41ce773c6292:MP_Comp V3.2.0/Complex Filters:MP_Comp V3.2.0-Complex Filters
 8fb53f12-2037-4fb7-aac9-63574b84c123:MP_Comp V3.2.0/Distort:MP_Comp V3.2.0-Distort
 a772defb-fc3d-44d3-b6d2-a04857e36c3b:MP_Comp V3.2.0/Generators:MP_Comp V3.2.0-Generators

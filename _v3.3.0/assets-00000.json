@@ -1,0 +1,5644 @@
+{
+  "asset_count": 167,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "MCCL_AlmostNightVison",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_almostnightvison.webp",
+        "hash": "SHA256:4cfbbb053023317b1861edbaed6c0cfb165147ef0058ce1a66ab9fadfd69d7cc"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_AlmostNightVison",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_BlueBoost",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_blueboost.webp",
+        "hash": "SHA256:0bfaceee9f8f214d3ce45bea7c797316711af8ba85ce55ee497aead44bb43863"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_BlueBoost",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_CopyrightedOrangeSoda",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_copyrightedorangesoda.webp",
+        "hash": "SHA256:c9953adccb17ae17924d1203f2f3804543c6b72b615033c3a84ae7608ad040f4"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_CopyrightedOrangeSoda",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_HotInHere",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_hotinhere.webp",
+        "hash": "SHA256:ff50131b90f253df2822bd91cd85ebab46eb035e720602620390222f0bea0994"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "description": "MCCL_HotInHere",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_IdkYThisWorksSoWellItJustBoostsAllChannelsExceptForGreen",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_idkythisworkssowellitjustboostsallchannelsexceptforgreen.webp",
+        "hash": "SHA256:f652d2546f25dd8803df37ff98d85a4dcd66c2b7d63148a32417fcf09d349386"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_IdkYThisWorksSoWellItJustBoostsAllChannelsExceptForGreen",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_ItsJustAPhase",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_itsjustaphase.webp",
+        "hash": "SHA256:619ccba0f4b83d77b0176eec1e92bf5e89ef6065fdb1074705708617fb990b14"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_ItsJustAPhase",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_ItsNotAPhase",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_itsnotaphase.webp",
+        "hash": "SHA256:75cc12953ae22b2daaa1d726242618552d307de1014745ff2471e7950ff57857"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_ItsNotAPhase",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_KidsVision",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_kidsvision.webp",
+        "hash": "SHA256:12af928262999f39c2da71f2934fe42c72356277c8897f965cd3fd7f969a2f32"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "Remember having good eyes and everything being new?",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_ModernHorror",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_modernhorror.webp",
+        "hash": "SHA256:84202ee0b34c005a5865f15938d658138ee56c14dedcf4be06be33f2576b05b3"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_ModernHorror",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_PurpleAviator",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_purpleaviator.webp",
+        "hash": "SHA256:d909975de8dac828de4f372e03295ddf374a8b8ee50bee40e52ea94507d7a45c"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_PurpleRayBan",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_RainForest",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_rainforest.webp",
+        "hash": "SHA256:51fc97069d78f64369c85783e449fccd56c64e80f711ff02afce0047959560c4"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_RainForest",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_Remember",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_remember.webp",
+        "hash": "SHA256:d7d33b7ca6f5249e591f1200ac1ffab6f032006fd9abf4a38796b20d872809b9"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_Remember",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_SlightCinema",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_slightcinema.webp",
+        "hash": "SHA256:cb6f4078cbba1b79afeed0e200527b142db58107d4b5cba87a781b3a88979eb8"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_SlightCinema",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_Stereo",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_stereo.webp",
+        "hash": "SHA256:58caf2fc0c6075ba7dee1986c770ec5304b3d7d196463b4aba6c675c678e9b11"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_Stereo",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_Violett",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_violett.webp",
+        "hash": "SHA256:905a05de0599a0523272c2ac16b91b77b3e469e47edda82badeabada0eea933c"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_Violett",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCCL_Vulkan",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mccl_vulkan.webp",
+        "hash": "SHA256:7e8f52d7c9b7a661bd9c1b3994cc27b61a41e25f9446366c46c881fbcf4fb2f2"
+      },
+      "meta": {
+        "catalog_id": "8b26d4aa-6620-4688-b02c-a27973d4e820",
+        "author": "Moportfolio",
+        "description": "MCCL_Vulkan",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_4PointGradient",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_4pointgradient.webp",
+        "hash": "SHA256:7483816abe3d60b2fd787d959210b097108164d7fd04d9dca7b510b64a5fa8df"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "pattern",
+          "background"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates the classic 4-point gradient",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_AfterWrap",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_afterwrap.webp",
+        "hash": "SHA256:9f4a84d69a0b8f0dcf927f264955a258fb0089c19d9d9f98e54055ee14b88463"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Fills transparent areas of a transformed image with tiles of itself.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ASCII",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_ascii.webp",
+        "hash": "SHA256:100a7c5258dbabedfb3ee125974e576e82dfb46d0b533af8a548ed7beb9839f4"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "3.0.0",
+          "retro",
+          "glitch",
+          "digital"
+        ],
+        "author": "Moportfolio",
+        "description": "Maps a set of Symbols to visualize the input image",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_BayerDithering",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_bayerdithering.webp",
+        "hash": "SHA256:e10feba2eebf608c302183ba4e06e45133e0f1455bbf750404f85550267b0c28"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Maps a bayer dithering pattern on the image, based on its luminance",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_BleachBypass",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_bleachbypass.webp",
+        "hash": "SHA256:9d29e8613a07b319bfa7b8eb39963582cca1ad7a850ba687998e5bedec095b72"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "2.1.0",
+          "Gestalt",
+          "vintage",
+          "retro",
+          "film"
+        ],
+        "author": "Moportfolio",
+        "description": "Simulates the look of skipping the bleaching process in film developing",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_BokehBlur3D",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_bokehblur3d.webp",
+        "hash": "SHA256:4b05c4f575fe479d63e643f7b3cfd9b4757af1b01c0cbacfc41ed80a46f47432"
+      },
+      "meta": {
+        "catalog_id": "7aad3faf-3c06-4eb0-a655-c4dd01f63e15",
+        "tags": [
+          "3.0.0",
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Applies depth-based blur to an image by using an images \"Depth\"-Pass and Blenders \"Bokeh Blur\"-node.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_BorderBars",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_borderbars.webp",
+        "hash": "SHA256:f7839a6b464fec6dcca722b5deca80d1d3e184e05005f7c8a4bc7821c6afe1f2"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "retro",
+          "pattern",
+          "vintage"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates black bars on the image. Can be used to create cinematic bars.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_BoxSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_boxsdf.webp",
+        "hash": "SHA256:5ea11b30c69fd08719cb111c10197e7f0a4fe75ffbb2e6dd4c7dd4ae71eaee30"
+      },
+      "meta": {
+        "catalog_id": "319ec336-851e-4b69-93c5-b14d66239e2b",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Chevrons",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_chevrons.webp",
+        "hash": "SHA256:afecad03f0125c734d1a4d3307a0500f00abc0e2407d51ec59509c9b133e7731"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates animated Chevron Arrows ",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ChromaGlow",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_chromaglow.webp",
+        "hash": "SHA256:949fb6d915f4419e6c87a37e8c2e0c76c6c867593fa239b44827972c035f5f67"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a rgb-split glow for the highlights of the image.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ChromaSlide",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_chromaslide.webp",
+        "hash": "SHA256:f55aefd05c1f49bdaad0c47fa2c7ed4e85e4437b7ab601736e37e8cf0007a2cf"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion",
+          "glitch",
+          "twitch",
+          "shake"
+        ],
+        "author": "Moportfolio",
+        "description": "A branch of the RGBSlide effect which tries to keep the colors blended in a way they always form a rainbow",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ChromaVortex",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_chromavortex.webp",
+        "hash": "SHA256:6b0e833c8e66fe5855211564e176a34e38fb2c38a6a230e4d48315ba54abf8ba"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a vortex distortion from the input using directional blur",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ClipToCanvas",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_cliptocanvas.webp",
+        "hash": "SHA256:3827e794cd5f9061e5383f575cb1078a275bd47461cae9d47cc3923dd53ee18a"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Clips the input image to the render resolution, which can help increase pereformance and ensure compatibility with some effects, but might lead to undesired result when offsetting the image afterwards",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_CombineCMYK",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_combinecmyk.webp",
+        "hash": "SHA256:9d9265c53fd5bc3aa3892854c86217cf9900b43cb53a632bd2fb32a4c765cb22"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Combine CMYK-chanels back into an image again",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Comic",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_comic.webp",
+        "hash": "SHA256:271045cc26ee181f6d884e9942f2f54a3ac4bd4d7df7f8921f4f483ea5164f7e"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "drawn",
+          "paint"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses the input as a UV-map for a brick texture, so the input will be split into less colors and recieves an outline",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Corruption",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_corruption.webp",
+        "hash": "SHA256:a5af764713785845801eeb55fb7587db02ebce6169f5062a97eb9db30a7a5a0f"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "3.0.0",
+          "retro",
+          "digital",
+          "glitch"
+        ],
+        "author": "Moportfolio",
+        "description": "Emulates visual artifacts of digital corruption caused by faulty drivers or broken GPUs, cables and displays.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_CrossSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_crosssdf.webp",
+        "hash": "SHA256:bbaa58ad5e2d8f02ff7b6a8d76eb3f21a3be2403090c7c8172d631997a93f0d5"
+      },
+      "meta": {
+        "catalog_id": "319ec336-851e-4b69-93c5-b14d66239e2b",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_CRT",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_crt.webp",
+        "hash": "SHA256:6bb22fe7aad15b55073e51cf734ccd07ac93c1dc61c1bf4f0216ea6585c2ea40"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "tv",
+          "vintage",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a CRT effect known from old TVs by mimicing visible RGB-Diodes and a slight screen distortion",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_DespeckleMask",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_despecklemask.webp",
+        "hash": "SHA256:e94035cf97a3c6f82bb5f10cb551562abab36af51b40020449565b9a3409f3af"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Removes coarse seperated pixels of a mask.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_DetailClarity",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_detailclarity.webp",
+        "hash": "SHA256:2dbdca9f7568a21d1a621e70291177f30290cbe816e12a62677a0ff0c0ade907"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "3.1.0",
+          "color"
+        ],
+        "author": "Moportfolio",
+        "description": "Adjusts the local contrast of details. Has adjustments for the Texture, Detail and Clarity, which each target different detail level.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Develop",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_develop.webp",
+        "hash": "SHA256:8e52c82c42e55598392ee817a9e770547af8b33c77597cf92f866313c58ae284"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "camera",
+          "film",
+          "color"
+        ],
+        "author": "Moportfolio",
+        "description": "Gives controls known from Photo editing softwares to develop the look of an image",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Diffuse",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_diffuse.webp",
+        "hash": "SHA256:c2d36c7d5d73668b41cf4c49543a206c18019fb7b2d5b781e8897f34f2ec4a4f"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Scatters the input into multiple tiny points.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_DisplacementFix",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_displacementfix.webp",
+        "hash": "SHA256:0ca814e0ffc3b2fa34f784a5bbaa945eed09caedb0cba06be49e400e0ab102b1"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "utility",
+          "repair"
+        ],
+        "author": "Moportfolio",
+        "description": "You can use this node after a displacement effect created black edges or spots on your footage. The effect will try to fill the hole using the original image and an extension of the displaced edges",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Distort",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_distort.webp",
+        "hash": "SHA256:4eba5d8ca0d6e8e3af8a98252d1b738cf10fd6507df845f11e0db0fdba044a19"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a gradient of the images luminance to use as a displacement map",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_DropShadow",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_dropshadow.webp",
+        "hash": "SHA256:fc0378114e54018c4c7d208277a86d2459ecdd58186f5606dae07fc4a59b2e70"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "motion",
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a drop-shadow under the input, based on the alpha channel",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Duotone",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_duotone.webp",
+        "hash": "SHA256:adb63190d59660bdfda2fc52466a6f7069b578218da896dedd2834e72addff49"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "color",
+          "cinematic"
+        ],
+        "author": "Moportfolio",
+        "description": "Maps two colors over the image using the brightness levels",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_DustParticles",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_dustparticles.webp",
+        "hash": "SHA256:12dadbb5ca11399af8583e335c0c001ee2d83670346c5c66d150b0f276f68d16"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "3.2.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates some texture-based particles to use as an overlay. Can be used to simulate dust, embers or just to add more detail to a scene.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_EdgeDetect",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_edgedetect.webp",
+        "hash": "SHA256:12cb50ef6f98b2b7d42cd6d6396e4782c7af191c7413f10913c99d679b095a40"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "author": "Moportfolio",
+        "description": "Tries to mask the edges in your picture using filters and gives you the option to color them.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_EdgeDetect2",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_edgedetect2.webp",
+        "hash": "SHA256:c61f8f2281a16a4c26ee96d42ac75aed3f1024ebe26fa3a81bcde67f62b0df90"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "An Edge-detection node-group that gives the ability to influence the detection process, so you can easily find very fine edges",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_EdgeShine",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_edgeshine.webp",
+        "hash": "SHA256:aebf6a0248819ea9f3889b3a6fd61f51a5bc98ca3a97c7ea4df15ef69e15361c"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "glow",
+          "shine",
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a shine effect with visible streaks",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_EdgeSoftness",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_edgesoftness.webp",
+        "hash": "SHA256:f20db1f1cd1e4ba5da1129d12763ead888590ddfc55b98a9092acf66e87fddba"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "blur"
+        ],
+        "author": "Moportfolio",
+        "description": "Blurs the edges of the image",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_EllipseSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_ellipsesdf.webp",
+        "hash": "SHA256:0a3bb7d98d52de161544c4a92a00fcb9f45e9b62225e382a66723047f07b4de8"
+      },
+      "meta": {
+        "catalog_id": "319ec336-851e-4b69-93c5-b14d66239e2b",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_FilmColors",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_filmcolors.webp",
+        "hash": "SHA256:9f3cc3f33f24108ff3d93b3da4743ef30b7431a57f6ff90b7de5d042c0a454aa"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "film",
+          "vintage",
+          "camera",
+          "lens",
+          "color",
+          "cinematic",
+          "retro",
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Applies an advanced Split-tone effect with controls optimized to recreate the colors of film.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_FilmGrain",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_filmgrain.webp",
+        "hash": "SHA256:e498c8643830e696af57cc455e7c69001245520b6c42ac66bdce88eeff22b895"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "camera",
+          "film",
+          "lens",
+          "vintage",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "Add animated FilmGrain to your image!",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_FilmGrain+",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_filmgrain.webp",
+        "hash": "SHA256:70f3e0cfb7b3254eb476a6f8d721378ec9dee96b32047dd490ef234dfdc1ad86"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "camera",
+          "film",
+          "lens",
+          "vintage",
+          "cinematic",
+          "retro",
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds more realistic filmgrain to the image, by reconstructing the image using grain, instead of simply applying it as an overlay",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_FilmLook",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_filmlook.webp",
+        "hash": "SHA256:1069d68c7ce4072a9704cc1bb727fff2a0055352d705b7ad1b66d5b39ff9f7eb"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "V.3.1.0",
+          "retro",
+          "vintage",
+          "film",
+          "cinematic",
+          "camera"
+        ],
+        "author": "Moportfolio",
+        "description": "Applies a collection of adjustable and modular film emulation effects, like film grain, vignetting, halation and more to the image.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_FilmOverlay",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_filmoverlay.webp",
+        "hash": "SHA256:72b470d109ffc9363162b4042a3850d1e394f3968fa721b403e5f96e4158bb36"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates hairs and splotches to simulate artifacts of old film strips",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Fire",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_fire.webp",
+        "hash": "SHA256:4186b34df8fa39c45acc86ff6bf5ce19a969ea17cfcfe00d5284f16c2faeca10"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "MP Fire! MP Fire! MP Fire! Generates procedural animated flames. You might want to set the Compositor Precision from \"Auto\" to \"Full\" for it to display correctly",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Flicker",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_flicker.webp",
+        "hash": "SHA256:0b6dda4f70e2ecfab7b05cefcd736e7b5aa1230ef4799a74d4e179e9183530c0"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "motion",
+          "twitch",
+          "glitch",
+          "glow",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds a color solid and glow effect to the image, that is randomly blended with the input over time",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_FlowTexture",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_flowtexture.webp",
+        "hash": "SHA256:9e6a0422d19c5c89da0abb64354f55fa9a7b86f73224eb64f25c50edc22e759e"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "pattern",
+          "motion",
+          "background"
+        ],
+        "author": "Moportfolio",
+        "description": "A generator for a texture with built in displacement",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_GameKid",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_gamekid.webp",
+        "hash": "SHA256:0f9adf04251d4fccd22c7e22320bc4a0a5fcaafa7d1a61f677b11c7bee70c558"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "retro",
+          "vintage"
+        ],
+        "author": "Moportfolio",
+        "description": "Mimics the look of games for a old videogame handheld. Go inside the nodegroup to change the pixel size if you want to.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_GeometryRain",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_geometryrain.webp",
+        "hash": "SHA256:0c4e6a202d5ef391f966a1f06de19fd2f791e8a2d926723ff23de14db7eebc8c"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "pattern",
+          "motion",
+          "background",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "description": "Generates a moving and evolving texture of geometrical shapes",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Glimmer",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_glimmer.webp",
+        "hash": "SHA256:b4e52d198cbe1a06ca3218ebdd01c9d51e18302df3ec12c05b6410038ca58872"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "glow"
+        ],
+        "author": "Moportfolio",
+        "description": "Animated star-shaped glows!",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Glitch",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_glitch.webp",
+        "hash": "SHA256:385168090efc796a04f63bf799b7c1e183b9e04684204f3298853a6bed9a0703"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "glitch",
+          "motion",
+          "twitch",
+          "shake"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds displacement Glitch and artifacts",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Grid",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_grid.webp",
+        "hash": "SHA256:3387c925d427dd36d31b417f527830b02379afbc30043058b0e459c88bbd5bd1"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a procedural Grid which rows count and projection can be customized",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_GridArray",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_gridarray.webp",
+        "hash": "SHA256:f7eb6d772bcd6337d6c0b3a78c14afa9f11c7a2d08bfdbfffdd45373892ff689"
+      },
+      "meta": {
+        "catalog_id": "29edb5fe-20a1-46f0-9492-123fab4f22df",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "description": "Distributes the input on a square grid and animates each instance with a slight offset. Can be used with any input-image, but is designed to be used with MP_Comps SDFs \"Mask\"-output or the result of \"MP_RenderSDF\".",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Halation",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_halation.webp",
+        "hash": "SHA256:1f4e13f9e345e793e4c05daa1f80570a5524c6932a6b36f5668c9ed91cf9de1c"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "camera",
+          "film",
+          "blur",
+          "vintage",
+          "lens",
+          "glow",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "A post-processing camera-like halation effect. Creates a red film-like glow around the highlights of the input",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_HalftoneCMYK",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_halftonecmyk.webp",
+        "hash": "SHA256:ed6682a96eb8aff9d0da55446aa51ceeabd1b7f8a1e9d02cc91fd618eb2ea4c4"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "retro",
+          "paint",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Halftone effect with offset on each CMYK-channel to simulate printing halftone effects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_HalftoneMono",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_halftonemono.webp",
+        "hash": "SHA256:85430efd5ba8c6cb3093b61b6320fc4dfe0c6a37107081cf4fd2687c6a5072f2"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "retro",
+          "paint",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a black and white halftone effect",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_HeartSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_heartsdf.webp",
+        "hash": "SHA256:a6418cbf48ac0bf08e291cce4d28ae3cee6e4f3c1a7864a0e5ef08fee5910b76"
+      },
+      "meta": {
+        "catalog_id": "319ec336-851e-4b69-93c5-b14d66239e2b",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_HueCorrect",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_huecorrect.webp",
+        "hash": "SHA256:196c1f27093fa6a4b7138d3fbc7b0ec12a80613b7424dde31664d54b24cc0e53"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "3.0.0",
+          "color"
+        ],
+        "author": "Moportfolio",
+        "description": "Gives you control over the hue, saturation, brightness and contrast of different hue ranges.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_InpaintRegion",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_inpaintregion.webp",
+        "hash": "SHA256:14e2a90b00d926c8770003987c9242c3a8bb210c04ed014caba0f88ea052670f"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "utility",
+          "repair",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Use Blenders inpaint effect on a dedicated region, to remove objects in an input by using its content",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_IsEven",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_iseven.webp",
+        "hash": "SHA256:4fd198a6c07b3e38ba5c00f91e5aaae5f6cc4477ca424c4707acb60118348325"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Outputs \"1\" if the integer is even and outputs \"0\" if it's odd.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_JitterPaint",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_jitterpaint.webp",
+        "hash": "SHA256:08823d9222f0cd79b341b77248fb841a9076976498b37e65e4cbad79011e057e"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "paint",
+          "drawn",
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Makes the input look like it's made out of paintstrokes and animates the strokes",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_KernelCreator",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_kernelcreator.webp",
+        "hash": "SHA256:3965410df08b3a19bb45d9bae1bf0a8b5e0b957c8d552806e0c59e701cb82796"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a 3x3 grid of configurable values and colors, that you can use as a Kernel for Blenders \"Convolve\" and \"Glare\"-nodes. By default the Kernel is configured for laplacian edge detection.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LensDirt",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lensdirt.webp",
+        "hash": "SHA256:c9066b6916ef26725c1c6ad96b155beaf557422560858ff44b8d7e8764da986f"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a camera lens overlay of dirt, dust and hairs which become more visible when aligining with bright areas of the input",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LensFlare",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lensflare.webp",
+        "hash": "SHA256:393089e5b861cf04cf51116726ae4229e996249785eaacd48ecccd0014953ba6"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "camera",
+          "glow",
+          "lens",
+          "cinematic"
+        ],
+        "author": "Moportfolio",
+        "description": "A lower performance-demanding lens-flare, since it doesn't rely on Blenders glow effects, but procedurally generates effects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LensFlareGlow",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lensflareglow.webp",
+        "hash": "SHA256:56846ac5d452f25d69a7c486b4909c91d5527cd96191f83b4bee5c2eb8744ac3"
+      },
+      "meta": {
+        "catalog_id": "da00a441-414c-4f7f-833e-6c0ae417e84c",
+        "tags": [
+          "camera",
+          "film"
+        ],
+        "author": "Moportfolio",
+        "description": "A LensFlare based on Blenders Glow Effects. Performance-heavier than \"MP_LensFlare\"",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LensFlareLegacy",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lensflarelegacy.webp",
+        "hash": "SHA256:d3b8fc4dd3f2aa7850bd675f95aa1f6825915b4659d843932d5123fafa8f2863"
+      },
+      "meta": {
+        "catalog_id": "da00a441-414c-4f7f-833e-6c0ae417e84c",
+        "author": "Moportfolio",
+        "description": "Uses Blenders Glow effects to create a Lens-flare effect which adjusts to its position. Add the Bokeh Image node to the Bokeh Input of this node to get the most out of this effect!",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LensFlareStreaky",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lensflarestreaky.webp",
+        "hash": "SHA256:6ad0a2f33f2dbbb6fbcb2b7df7d00d5fc8a787fb2fd250dc7540715779790bd5"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "3.1.0",
+          "camera",
+          "glow",
+          "lens",
+          "cinematic"
+        ],
+        "author": "Moportfolio",
+        "description": "Customizeable and procedural lens flares with sharp streaks.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LensReflection",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lensreflection.webp",
+        "hash": "SHA256:02a369a5c92f383ee104dc6f8fed056605ae30c55d41a480459e81f18a70ad39"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Glows and mirros highlights of the image to simulate lens reflections",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LightLeaks",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lightleaks.webp",
+        "hash": "SHA256:f1176e258bcafbcaace98d41078d29ddde1cde5b6c4a00e719154268dec1f32d"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "2.1.0",
+          "Gestalt",
+          "3.1.0"
+        ],
+        "description": "Generates bright lights shining into the camera, with slight bokeh details. Tip: Put a Glare node set to \"Ghosts\" after the effect, to further emulate lens effects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Line",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_line.webp",
+        "hash": "SHA256:686cb59986df47e9dcfc11a821159d07c131994412ea2ee847fdeb880938f081"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a Line between two points",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LinearArray",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_lineararray.webp",
+        "hash": "SHA256:fbdcc7db5eca9d38560c0893b162b064a910f5d900bb84defa03bb54e5a5f0fe"
+      },
+      "meta": {
+        "catalog_id": "29edb5fe-20a1-46f0-9492-123fab4f22df",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "description": "Repeats the input on one axis and animates each instance with a slight offset. Can be used with any input-image, but is designed to be used with MP_Comps SDFs \"Mask\"-output or the result of \"MP_RenderSDF\".",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_LoadingBar",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_loadingbar.webp",
+        "hash": "SHA256:fdf7748c68a4ff022c9192082248ec29c61801de06742a346a6a24c71932b566"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates an animateable loading-bar element, which can be used for motion-graphics to create pseudo UI-elements",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_MakeBidirectional",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_makebidirectional.webp",
+        "hash": "SHA256:f3b5d696925a10d287841c4f210cc86ea5148257c9b2c32712345986fca425be"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Maps displacement textures from 0-1 to \"-1\"-\"+1\", which allows a displacement-map to displace an image into both directions of each axis.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_MaskBoolean",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_maskboolean.webp",
+        "hash": "SHA256:e47a5c9737e3d11e32edfe34d70869299bab47ebd9024554f6b45e5ff48709ed"
+      },
+      "meta": {
+        "catalog_id": "29edb5fe-20a1-46f0-9492-123fab4f22df",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "description": "Merges two masks with each other, either subtractive- or additively",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Merge",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_merge.webp",
+        "hash": "SHA256:fe85534b9b3b5f95f4611d85f86321ca38edee415abe2a1f0fa139d17063d45e"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Merges two inputs without clipping them",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Mirror",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_mirror.webp",
+        "hash": "SHA256:40a32306e326371a55ef416a52e661643dbb7b4bc9afa4b1f4a362ca2917c25b"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Mirrors the input around a moveable and rotateable point.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_MirroredEdges",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_mirrorededges.webp",
+        "hash": "SHA256:1bc8e327a314bbca7c529fdfa5543216597719d801cc3ef0a5ccb49854431122"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Tiles the image, to fill blank edges caused by distortion effects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_MirroredEdgesVector",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_mirrorededgesvector.webp",
+        "hash": "SHA256:40f8bdfe0bf184efeb6acdf2447187eac5592c6a9e121eea573e44a2733a7874"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Artem / Moportfolio",
+        "description": "Creates reflective wrapping like MP_MirroredEdges, but by using Vector Math. Thanks to Artem (instagram @artemsh_3d) for providing this node-group!",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Mist3D",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_mist3d.webp",
+        "hash": "SHA256:fa7816cdcb0d665d09f60e8d1246f797a6e7b8c4498cc8ffcdd9f4bb290f452b"
+      },
+      "meta": {
+        "catalog_id": "7aad3faf-3c06-4eb0-a655-c4dd01f63e15",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds 3D mist/fog to a render, by using it's mist pass",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Modulation",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_modulation.webp",
+        "hash": "SHA256:987c3d3d375d1c84e5517d462298d2b29fd5309e36b76b70c12cf98d43e2b77a"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "motion",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "Mimics a common effect known as frequency modulation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_MonoHue",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_monohue.webp",
+        "hash": "SHA256:9f601536cf9c86683c0d0b246b8ede1e3ee8b548480512dee711316a1623ca59"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Let's you pick a  color from the input image to make it the only part of the image to be saturated, with the option to recolor it to a custom tint",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_MorphSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_morphsdf.webp",
+        "hash": "SHA256:39e68dfbc788f1d8df5fb3f4b743b93619c7952f8cd1d61c73e6ada3d6605213"
+      },
+      "meta": {
+        "catalog_id": "29edb5fe-20a1-46f0-9492-123fab4f22df",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "description": "Animates one input shape to transform into another shape",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_NTSC",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_ntsc.webp",
+        "hash": "SHA256:e7ec730f3ab583da729ef42ba51f6d45e33cf4c5df1c4d962513490da6228b28"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "vintage",
+          "vhs",
+          "tv",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "Emulates VHS and NTSC effects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Outline",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_outline.webp",
+        "hash": "SHA256:f34ad0caba1bed8711c2a10c9386bef22f5033d8912254d39575778e929c5c7e"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "drawn",
+          "paint"
+        ],
+        "author": "Moportfolio",
+        "description": "Tries to add handdrawn-like outlines to your scene. On transparent images, it will add an outline around the object, but the effect also works on opaque images",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_OutlineAlpha",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_outlinealpha.webp",
+        "hash": "SHA256:0804fb2ecf05cf06c92af4031cf11a9c3736b19a576716f3b55cc4565cd6007f"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds an outline around the input, by using its alpha channel. So the effect requires an input that has an alpha channel/transparency, to work like intended.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Overlay",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_overlay.webp",
+        "hash": "SHA256:d40ae0503c5bfed32e79eb2eaeea1c1a643443b31eb18389fd2057029ffdb7c0"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "camera",
+          "film",
+          "lens",
+          "cinematic"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a lens-overlay with falloff controls",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Paint",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_paint.webp",
+        "hash": "SHA256:05e23183d0f6a55ceb71139bd1b6029024bf67e88728cd9d2238dec445d51d6c"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Applies brush strokes to the image to create a painting effect.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_PaintLegacy",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_paintlegacy.webp",
+        "hash": "SHA256:b07d712a76f94ffeef16f13a2096814c99853518cf65545679f12fbe2ecf1836"
+      },
+      "meta": {
+        "catalog_id": "da00a441-414c-4f7f-833e-6c0ae417e84c",
+        "tags": [
+          "drawn",
+          "paint"
+        ],
+        "author": "Moportfolio",
+        "description": "Simplifies the image into fewer colors to simulate oil paint",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_PaletteReduction",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_palettereduction.webp",
+        "hash": "SHA256:26b144f93b5c36052ae23ca44514384868752cfff14e2cb68009b55677bb181c"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Limits the amount of colors in an image. Similiar to Blenders \"Posterize\"-node, but gives more control on the individual channels. The amount of colors, is equal to the value \"Shades\"^3. So a \"Shades\"-value of 8, would result in a palette of 512 colors. Since this process is altered by the adjustment of the \"Strength\" and \"Gamma\" values of the effect, the number of visible colors will likely change",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Parent",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_parent.webp",
+        "hash": "SHA256:d865e1a596c2cbd392a8bd8b630359ffd168313167c71141ffdbad171daaeb9f"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Copies the transform of one element and applies it to the child element. So the child will automatically stick to the parent",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_PerspectiveTilt",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_perspectivetilt.webp",
+        "hash": "SHA256:5034ca074da214743878ac73ac7e503db45dc0ac55862fae18673bd48f568598"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses Blenders 4 Corner Pin node to transform the image like its on a 2D-plane in a 3D-space",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_PixelSort",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_pixelsort.webp",
+        "hash": "SHA256:99530f5e01ee613b3e945e150d8f5f7a4c7b945d23be9207bb893652cf04be26"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Displaces the image based on a directional noise, that is mapped to the inputs pixels, and using the inputs luminance as a threshold, to recreate the look of applying a sorting algoithm on an images pixels, which is commonly used in Glitch-Art",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_PseudoJPEG",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_pseudojpeg.webp",
+        "hash": "SHA256:c6ba2d0cb7ba609ee42d774eb62da9f9b1aea7de831b85a552d533d948e6b231"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "3.1.0",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "Mimics JPEG compression artifacts.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_BlockNoise",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_blocknoise.webp",
+        "hash": "SHA256:df07612cd0850559c06d8185f293f99293dacd00ca3e294ae1c510b07eabcd19"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "description": "Quickly add a noise of pixels to your scene",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_DiamondsNoise",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_diamondsnoise.webp",
+        "hash": "SHA256:1dccbcac1ed6cc8769d5e708f8682ce0252907723cf7a2853bf5489df9b8220f"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add a noise of diamonds to your scene",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_GradientLinear",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_gradientlinear.webp",
+        "hash": "SHA256:b800301926c1523fa69973a521ae5e1aba0c672ceb8b28b5eb5c0ec620b15c44"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add a gradient to your scene",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_GradientSpherical",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_gradientspherical.webp",
+        "hash": "SHA256:eb650269eb95a11887db576c7359c2919b3292fcdbfbb2a800c504d03157909f"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add a gradient to your scene",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_Sparkle",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_sparkle.webp",
+        "hash": "SHA256:1ccad43e9e25da41cc139852a398ad339bffd64330583f1807a3fc4a1f54ffd9"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add Blenders  Voronoi Texture to your scene, with pre-configured controls to quickly transform and animate the texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_TurbulentNoise",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_turbulentnoise.webp",
+        "hash": "SHA256:835646425c52058d62327964a55976f79298c37c4b66946b3cc969741e1f99fa"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add Blenders fBM Noise Texture to your scene, with pre-configured controls to quickly transform and animate the texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_VoronoiCells",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_voronoicells.webp",
+        "hash": "SHA256:3d9631acef420ac83ec73705bfd2f940fb86899cc2f7384b4b6c97f97a92831b"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "description": "Quickly add Blenders Distance-To-Edge Voronoi Texture to your scene, with pre-configured controls to quickly transform and animate the texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_VoronoiNoise",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_voronoinoise.webp",
+        "hash": "SHA256:befb63d0a4494cdbc578caa42b3b47c4b325e0bddb3bf12122fd5f4d1738b937"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add Blenders  Voronoi Texture to your scene, with pre-configured controls to quickly transform and animate the texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Quick_Wave",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_quick_wave.webp",
+        "hash": "SHA256:3f4e1af4cbb3509b6385fe4434205e56bf33b9e6e3a4fd4e67a6f7827a23b34c"
+      },
+      "meta": {
+        "catalog_id": "9e19db41-0ff8-49c3-84bf-771a97a4f2ba",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Quickly add Blenders WaveTexture to your scene, with pre-configured controls to quickly transform and animate the texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Rain",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_rain.webp",
+        "hash": "SHA256:b483763ef04d041beedc152e1b1ccdb1e38ff2fac4e751ab12ee966de58ff335"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates animated rain, that can be used as an overlay or on its own",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Rainbow",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_rainbow.webp",
+        "hash": "SHA256:cc3cac28a25ef9fb96a425fa32832ee4f7d21cab7b83c50e5a94cb420245ced8"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "pattern"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates Rainbow Bars",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_RaindropLens",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_raindroplens.webp",
+        "hash": "SHA256:edd5807b052fa5d59c897317f0956b7b9b0377cd309844f692e4b4e73225511c"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "lens",
+          "motion",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Simulates raindrops on the camera lens",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_RelativeTransform",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_relativetransform.webp",
+        "hash": "SHA256:1d28299996d226a880e4e3e8b9f4b6065acae9c1e8c26defba48d717c534d6e0"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Transforms the input relative to the resolution, so that it stays consistent in the realtime compositor and has user-friendly input-values",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_RenderSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_rendersdf.webp",
+        "hash": "SHA256:16bc095e32a3d582db19af3f64666212ba690a1023f86b91a5f595f362ef4cd0"
+      },
+      "meta": {
+        "catalog_id": "29edb5fe-20a1-46f0-9492-123fab4f22df",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "description": "Can be used to stylize SDF shapes and masks, by adding an outline and fill to them. The fill and outline inputs can also be used to apply textures to the input shape",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_RGBSlide",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_rgbslide.webp",
+        "hash": "SHA256:e364a0dc8e566cfcf8bf966aec2739bf727b880135ff037f1ad966812ffff755"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion",
+          "glitch",
+          "twitch",
+          "shake"
+        ],
+        "author": "Moportfolio",
+        "description": "A heavy distortion effect that can be used to create glitch effects or to create transitions and animations",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_RGBSplit",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_rgbsplit.webp",
+        "hash": "SHA256:4ccb694208e85ad37e55465ab523e9d534841f6d0724e1bda56c7829119b06a5"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "glitch",
+          "camera",
+          "retro"
+        ],
+        "author": "Moportfolio",
+        "description": "Gives you control over the position of all channels individually",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ScreenCoordinates",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_screencoordinates.webp",
+        "hash": "SHA256:f6c911c53b625d8a42ec2cd1bf5a049bb02c5145aa9da2e08bd9c0440acd9f74"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Outputs texture coordinates that are scaled to the render resolution.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_SeparateCMYK",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_separatecmyk.webp",
+        "hash": "SHA256:d0ea4f54c1ac5c6078fef75fd08982263b73c9fdca306d8840e261845f682654"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Converts the image into CMYK and outputs each channel",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Sepia",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_sepia.webp",
+        "hash": "SHA256:9c452e9363cb86a1fd1ec754d08051acb00cd134fa5a9b1e40e41f7f8b8b943b"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "2.1.0",
+          "Gestalt",
+          "vintage",
+          "retro",
+          "film"
+        ],
+        "author": "Moportfolio",
+        "description": "Applies a sepia color palette to the image",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Shake",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_shake.webp",
+        "hash": "SHA256:9c9549ab4adfec5658e6b976b725b9870e72adad525fd27469e38330fc0c8a87"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "shake",
+          "motion",
+          "twitch",
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Updated version of MP_Shake, which will emulate camera shake with accurate motion-blur",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ShakeLegacy",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_shakelegacy.webp",
+        "hash": "SHA256:794441339f848115c7d641556e1c7638ae4593e9efd6da9ebf12a09c47dcb373"
+      },
+      "meta": {
+        "catalog_id": "da00a441-414c-4f7f-833e-6c0ae417e84c",
+        "author": "Moportfolio",
+        "description": "Automatically animated effect that mimic camera shake with vector-based motion-blur.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_SineLoopExpression",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_sineloopexpression.webp",
+        "hash": "SHA256:3e59833318662b9085b6fd1cc405195f7ce97c9a8e49fb79b6d8835cde2bb907"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "expression",
+          "motion",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Will animate between two values you define and will loop the animation by using a sine-curve",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Snow3D",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_snow3d.webp",
+        "hash": "SHA256:0544fd1945f9711f7ab47bbf41feb446adeee01de8255bb0b05684cced11169a"
+      },
+      "meta": {
+        "catalog_id": "7aad3faf-3c06-4eb0-a655-c4dd01f63e15",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Maps snow onto a image by using its \"Normal\"-Pass, to ensure the snow will only be visible on surfaces facing upwards.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_SphereDisplace",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_spheredisplace.webp",
+        "hash": "SHA256:f0709c7c59400991f3598cfdfb361b349b2eb64cf68bf5adf3a5d286e9ce57bc"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "author": "Moportfolio",
+        "description": "Creates a displacement that looks like a dent",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_SpotLight",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_spotlight.webp",
+        "hash": "SHA256:63a336096a0e4e04b476b2d23947b40b8d58a1cd033ef5df4312252d75cbe382"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "3.0.0",
+          "relight",
+          "lamp",
+          "color"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds a procedural spotlight to add lighting or relight the input",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_SuperellipseSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_superellipsesdf.webp",
+        "hash": "SHA256:50cd0fcd59f2c2eb7eff98e3624ea7d2550eb7fbcd0113d09d366f47b26fb1d0"
+      },
+      "meta": {
+        "catalog_id": "319ec336-851e-4b69-93c5-b14d66239e2b",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TapeDamage",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tapedamage.webp",
+        "hash": "SHA256:e0f525e46503bd3088f30c594436e986654ce9eb900c616f6ab42dc00f658b94"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "3.2.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Applies a lightweight texture and displacement to an image to add a VHS-tape feel",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TapePlayback",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tapeplayback.webp",
+        "hash": "SHA256:75a5b26b7e0de9c8bf5f10dc5b642b012a3559381ce6362b1580d4516aeaf2f7"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "3.2.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a customizeable Overlay to display elements of a VHS Player",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Thunder",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_thunder.webp",
+        "hash": "SHA256:8ec39db2c20b3361754c6be81151ccab5feb18d0e452013725f3e743d75f9634"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a procedural lightning bolt",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Tile",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tile.webp",
+        "hash": "SHA256:780f5eacd29b251ccb3fb0117296f29424343896fbe72aa4f065ffd3d1990991"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Creates a tiled version of the image. Note that the wrapping it uses works weird in Blender and combining it with other effects can lead to undesired results",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TiltShift",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tiltshift.webp",
+        "hash": "SHA256:8211365739f4fa99db67641c8ecc76a67bf9853c42ca7bf763c619bd7f5667a8"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "camera",
+          "lens",
+          "blur"
+        ],
+        "author": "Moportfolio",
+        "description": "Blurs the image on the top and bottom in a soft falloff and gives control of where the blur is located",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TonalMask",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tonalmask.webp",
+        "hash": "SHA256:8800bf278169d1bb7800c0b110a2d7f53bf7b593b9614a895d8d70169e7091e5"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates masks split into the Shadows, Midtones and Highlights of an image. Outputs both the individual masks and a merged mask, where each tonal range displays as its assigned value.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_ChromaPull",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_chromapull.webp",
+        "hash": "SHA256:55ee91621217a2b0d9115cc364bedd6c5d4a8d0a61cdd789d58e356e35163249"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by using lens distortion.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_Diffuse",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_diffuse.webp",
+        "hash": "SHA256:c09e753b7979d36e435258692a960cee3da57581afc4a4d04273d539e706e00b"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by scattering them into multiple tiny points.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_DissolveLuma",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_dissolveluma.webp",
+        "hash": "SHA256:128756fcc7a0264737cca35f5b4d9b560b0124df8c34d04663f6cd2aaa84e646"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by creating a mask from the \"Start\"-footages luminance.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_DissolvePixel",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_dissolvepixel.webp",
+        "hash": "SHA256:0abf85aaff12c27d4a64af0d91096e3817675834b23b4d13b68bd9bac2c72755"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by using a block noise that is mapped to the resolution of the input.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_Glare",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_glare.webp",
+        "hash": "SHA256:1a265db5714cd63bd1c4ab9ac82a3af8adbb0ace92ef4ae326d01f774e9b502b"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by using Blenders \"Glare\"-node, to choose from multiple glow effects, like bloom, streaks, sun beams and ghosts.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_SlideOver",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_slideover.webp",
+        "hash": "SHA256:6f2873b986837c4b99b08bc2af969b5a4bc2befba4b726f92d9c8b3a42bf6f2e"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Slides footage over other footage by using a simple translation effect.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_TransformBlur",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_transformblur.webp",
+        "hash": "SHA256:d2cb0bed4dd8107ec6611c0817d3ba99dde511c6cf89383eed6ad828b1d3cccd"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by using transform effects with directional blur.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_WipeCirlce",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_wipecirlce.webp",
+        "hash": "SHA256:80858d7dd9a6bb1522f6bdf26d14aff8c65f8e7f743a413b235abca13e1e50eb"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by using a circle mask as a transition.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Transition_ZoomFade",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_transition_zoomfade.webp",
+        "hash": "SHA256:04be2ea9fde4ef50f06edc97de2128f3fdd91f051b1ffb3e3b55a9350581f2d4"
+      },
+      "meta": {
+        "catalog_id": "205e9625-02f2-4ce7-a798-c11a9c79e9e4",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Blends between two inputs by scaling and fading them. Also gives the option to add an optional rotation.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TriangleSDF",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_trianglesdf.webp",
+        "hash": "SHA256:cd066387e21892d1cc08542d8da46bc18487522b8502372ae264345056fc769d"
+      },
+      "meta": {
+        "catalog_id": "319ec336-851e-4b69-93c5-b14d66239e2b",
+        "tags": [
+          "3.0.0",
+          "SDF"
+        ],
+        "author": "Moportfolio",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TurbulentDisplace",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_turbulentdisplace.webp",
+        "hash": "SHA256:63348a860df0bc53b48ba7dc6904075b2fe1fd3ad9f80dc8eec6700f57d22975"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses a noise texture as an animated displacement map",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TV",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tv.webp",
+        "hash": "SHA256:916a51e8aad695e8ee6d1642e33aa8688a2bedf62e45348a9da06146ca1232f8"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "tv"
+        ],
+        "author": "Moportfolio",
+        "description": "A stylized efect to mimic old TVs",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_TVDamage",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_tvdamage.webp",
+        "hash": "SHA256:348249ef8e7b25ccb35db5e053e2d1b373c2d879d2118297e0f7b3ea91c2b57b"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "2.1.0",
+          "Gestalt",
+          "tv",
+          "retro",
+          "vintage",
+          "vhs"
+        ],
+        "author": "Moportfolio",
+        "description": "Emulates visual artifacts of old CRT TVs",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Twirl",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_twirl.webp",
+        "hash": "SHA256:96ff79e19cef8032d6ebc3e793c289df65d77de04f7eab37687ee0824c262738"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Displaces the image on a spiraling vector",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Universe",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_universe.webp",
+        "hash": "SHA256:a57739397bc1abb32e826485c3b65b7a38b8e977a3a9889fbed53797210883b7"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates a texture displaying several space elements, like stars and nebula.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ValueContrast",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_valuecontrast.webp",
+        "hash": "SHA256:ddab9b845b71a85592b0ad8ed2fe004d0688abc5fe6e5c85abe5a88e5b389dbb"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Increases/Decreases the contrast of value-field linearly. This allows you to control the distance between the values of a float-field.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_ValueVisualizer",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_valuevisualizer.webp",
+        "hash": "SHA256:4cda36cefd24e8f423bc02751b56889f52f55809d3d8cbb038bcfab3e37856b2"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "3.1.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Renders an input float-value as text. Intended to use for monitoring the output of math-nodes and for UI-elements. Can also be used as a counter-animation. Supports up to 4 digits before the \".\" and 3 digits after them.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_VenetianBlinds",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_venetianblinds.webp",
+        "hash": "SHA256:ddc4f12a9defb983ee5fdc682726779a8bbc369467905e646d83b5441e57b300"
+      },
+      "meta": {
+        "catalog_id": "aa802a01-f4e0-49b4-90a0-a50117950d1d",
+        "tags": [
+          "vintage",
+          "retro",
+          "pattern",
+          "cinematic"
+        ],
+        "author": "Moportfolio",
+        "description": "Generated Blinds on top of the image and adds a glow. Can also be used to create a scanline effect",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_VHS",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_vhs.webp",
+        "hash": "SHA256:4028eb2c1e58f3fd1e6b9bec5f1836a5efe5f2f379604fba7ffc780ad5663ba2"
+      },
+      "meta": {
+        "catalog_id": "8de4e2a1-168b-4fc4-b74f-41ce773c6292",
+        "tags": [
+          "tv",
+          "vhs",
+          "vintage",
+          "retro"
+        ],
+        "description": "Simulates VHS signal and tape effects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_VHSLegacy",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_vhslegacy.webp",
+        "hash": "SHA256:c977e4dd31037590159ca3ec9954e610da4e40d664f08c7db84570c67479a318"
+      },
+      "meta": {
+        "catalog_id": "da00a441-414c-4f7f-833e-6c0ae417e84c",
+        "author": "Moportfolio",
+        "description": "A predefined look with many procedural textures to mimic the randomness and look of VHS charachteristics.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Vibrance",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_vibrance.webp",
+        "hash": "SHA256:6996da76c86f1adb6da55f35d84bf82f9addb92bbde5965d570a087303c34c3b"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "color"
+        ],
+        "author": "Moportfolio",
+        "description": "Boosts the saturation of low-saturated colors",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Vibrant_Colorize",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_vibrant_colorize.webp",
+        "hash": "SHA256:a14e8832a60acdd7e314487dfebbadba6016448f16ad14b5e4133158fa0d6421"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "description": "Colorizes the input while keeping some of the  inputs channels, to produce intense and natural looking hot colors",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_VideogameShading3D",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_videogameshading3d.webp",
+        "hash": "SHA256:79f0a1c44ddc9ad5559ad3eccd269e0e1b93661e2cdebd78b40a0dc522275eb0"
+      },
+      "meta": {
+        "catalog_id": "7aad3faf-3c06-4eb0-a655-c4dd01f63e15",
+        "tags": [
+          "3.0.0"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses different render-passes to simplify the lighting of a render, to recreate the look of early 3D videogames",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Vignette",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_vignette.webp",
+        "hash": "SHA256:fb5edd4dbcf13074cd44aad07267a7b6b82f28e1746584b3a2636ec03454f55a"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "film",
+          "camera",
+          "lens"
+        ],
+        "author": "Moportfolio",
+        "description": "Adds a vignette, which is an effect that darkens the edges of your footage, which is known from cameras.",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_Voronize",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_voronize.webp",
+        "hash": "SHA256:4ee682a21bf263bfd591f9b4e3efb8b15e7cc3a8a26d75731d6ea40f1bcf6fc6"
+      },
+      "meta": {
+        "catalog_id": "715bdf3d-612b-47cb-a69e-39b2bfe787de",
+        "tags": [
+          "paint"
+        ],
+        "author": "Moportfolio",
+        "description": "Maps the input on a voronoi texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_VoronoiDisplace",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_voronoidisplace.webp",
+        "hash": "SHA256:2ef747ac25596e69cce5e38dcc3a072de931997d86f18ff1e92f44b52067eb0f"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses Blenders Voronoi Noise texture to displace the image ",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_VortexTexture",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_vortextexture.webp",
+        "hash": "SHA256:79caf87a8b575211729bad6d2dffb56c01934f8440c6ef9704a1cf6f46b83aac"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Generates an animated twirling noise texture",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_WarpBubble",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_warpbubble.webp",
+        "hash": "SHA256:eb54b46dd5574ac9ca8ece759a1728d0f94b6905e45810f2051a2f91e5612a1d"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Displaces the input using the input as a displacement-map, to created an inflated outline",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_WaveDisplace",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_wavedisplace.webp",
+        "hash": "SHA256:6e009d2de813a1d401c4982932dac85317e8bc3c0c6d59057b32a241b0ef968c"
+      },
+      "meta": {
+        "catalog_id": "8fb53f12-2037-4fb7-aac9-63574b84c123",
+        "tags": [
+          "motion"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses wave textures to displace the image (animated)",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_WhiteBalance",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_whitebalance.webp",
+        "hash": "SHA256:12a6808c9e9063e4588d2faae632b1a7648a772558257f7eb2139ab0d2255b79"
+      },
+      "meta": {
+        "catalog_id": "af365924-2c8b-471b-a7ef-8ad2f4fd5529",
+        "tags": [
+          "color",
+          "camera",
+          "film"
+        ],
+        "author": "Moportfolio",
+        "description": "Artist-friendly white-balance controls",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_WiggleExpression",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp_wiggleexpression.webp",
+        "hash": "SHA256:0bc4a7be3096b69fb5959ab6b4c17154ad0fc7139190597f42f67b35a3665f8e"
+      },
+      "meta": {
+        "catalog_id": "963b0d52-f54b-4957-be83-936e6f77ad4a",
+        "tags": [
+          "expression",
+          "motion",
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Uses noise to generate random values over time",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP_\u95c7",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/mp.webp",
+        "hash": "SHA256:706c916273a4e2308089e9058f8b79d425624ec6e3362ef771f83ef2759d430b"
+      },
+      "meta": {
+        "catalog_id": "a772defb-fc3d-44d3-b6d2-a04857e36c3b",
+        "tags": [
+          "2.1.0",
+          "Gestalt"
+        ],
+        "author": "Moportfolio",
+        "description": "Increases the ATK and Def of all- I mean, generates multiple layers of noise to create a world of darknes. The japanese Kanji in the name of the effect reads as \"Yami\" which means \"Darkness\"",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          },
+          {
+            "name": "compositor_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Support the project!",
+      "id_type": "NODETREE",
+      "files": [
+        "MP_Composite.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MP_Composite_thumbnails/Nodetree/support-the-project.webp",
+        "hash": "SHA256:f7f89171546f61bec956e690ddd12df25de36513f7f80726722cbe982852cf11"
+      },
+      "meta": {
+        "catalog_id": "cbdd9201-1c3e-4a22-9646-cc2c0b636478",
+        "author": "https://superhivemarket.com/products/mp_comp",
+        "description": "If you're able to, please support the project, so I can keep developing it!",
+        "license": "https://ko-fi.com/moportfolio",
+        "copyright": "https://moportfolio.gumroad.com/l/mp_comp",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "MP_Composite.blend",
+      "size_in_bytes": 28433817,
+      "hash": "SHA256:1ce6bd11a560c394fb2faa4a70a46ed306087a0ad47eafb067e227d628e44037",
+      "blender_version": "5.2.39"
+    }
+  ]
+}
