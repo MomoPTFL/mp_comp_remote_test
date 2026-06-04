@@ -5,10 +5,10 @@
       "hash": "SHA256:5e5b90ab54eb0eec1a0dad79d3bd6d27eae5c5253fb948fe132ded662832fac4"
     }
   },
-  "name": "MP_Comp",
+  "name": "Your Asset Library",
   "contact": {
-    "name": "Momo PTFL",
-    "url": "https://moportfolio.de/mp_comp-documentation/",
-    "email": "contact@moportfolio.de"
+    "name": "Your Name",
+    "url": "https://example.org/",
+    "email": "example@example.org"
   }
 }
